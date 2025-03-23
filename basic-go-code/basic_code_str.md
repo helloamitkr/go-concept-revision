@@ -1,0 +1,1 @@
+## Basic code structucture of go
